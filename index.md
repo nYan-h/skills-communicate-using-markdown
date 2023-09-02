@@ -7,3 +7,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [x] Complete
+- [ ] Probably incomplete
